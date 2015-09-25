@@ -1,0 +1,20 @@
+{
+  "name": "elm-skel",
+  "version": "1.0.0",
+  "description": "Simple project skeleton for elm using gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/teppix/elm-skel.git"
+  },
+  "keywords": [
+    "elm",
+    "skeleton",
+    "gulp"
+  ],
+  "author": "Ola Sikstrom",
+  "license": "BSD-3-Clause"
+}
